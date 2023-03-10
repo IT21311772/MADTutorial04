@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Lab Sheet 04</string>
+    <string name="edtName">Edit Name</string>
+    <string name="edtEmail">Enter Email</string>
+    <string name="edtPassword">Enter Password</string>
+    <string name="edtReTypePassword">Re Enter Passwords</string>
+    <string name="btnSubmit">Submit</string>
+    <string name="btnCancel">Cancel</string>
 </resources>
